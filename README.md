@@ -36,8 +36,9 @@ to config cpm, you can modify /usr/lib/cpm/config.json
 
 ## package.json
 {
-	"package":"codemao-offline-client",
-	"version":"0.0.1",
+
+	"package": "codemao-offline-client",
+	"version": "0.0.1",
 	"author": "package@codemao.cn",
 	"dependencies": {
 		"electron":"^2.0.0"
@@ -61,7 +62,6 @@ to config cpm, you can modify /usr/lib/cpm/config.json
 		"application": "http://192.168.0.123/pool/codemao-offline-client.bcm"
 	},
 	
-	
 	"name": {
 		"zh_CN": "编程猫离线客户端",
 		"en_AU": "codemao offline client"
@@ -76,7 +76,6 @@ to config cpm, you can modify /usr/lib/cpm/config.json
 	},
 	"categories": "Productivity;",
 	"icon": "/var/lib/cpm/apps/codemao-offline-client/codemao-offline-client.svg",
-	
 	
 	"platform": {
 		"os": "win"/"linux"/"android",
